@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(241, 225 , 255);
+    font-family: 'Shadows Into Light', cursive;
+}
+
+.header_div {
+    background: white;
+    color: rgb(124, 21, 124);
+    font-family: 'Rubik Bubbles', cursive;
+}
+
+.header_div p {
+    color: rgb(255, 69, 69);
+    font-family: 'Shadows Into Light', cursive;
+    letter-spacing: 3px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.main_div button {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: rgb(59, 59, 59);
+    bottom: 0;
+    width: 100%;
+    font-size: 20px;
+    background-color: rgb(255, 255, 255);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(102, 102, 102);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
